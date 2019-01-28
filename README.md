@@ -11,8 +11,10 @@ the problems will wither, and the sunshine of success will break through.
 
 This mindset is close to yoga, close to meditation, close to jazz, close to the
 perfect golf swing, close to the clarity of falling in love, close to knowing
-that you are THE ONE...well. OK maybe we went too far there, but it's a feeling
-of perfect peace in a realm of mindfulness.
+that you are THE ONE to save those trapped in the Matrix.
+
+OK maybe we went too far there, but it's a feeling of perfect peace in a
+realm of mindfulness.
 
 ## The Programmer's Mindset
 
@@ -20,20 +22,23 @@ of perfect peace in a realm of mindfulness.
 
 _Mindfulness_ in programming, as with everything worth doing in life, is the
 key. It just _happens_ that we're going to build that supporting skill by doing
-programming. Most of the anti-patterns we discussed have lack-of-mindfulness at
+programming. Most of the anti-patterns we discuss have lack-of-mindfulness at
 their root: coding while texting, pairing while browsing Instagram, copying
 random-dude420's solution from Stack Overflow. You're doing right when you're
-doing _work_, when it's hard, when you'd rather see what's up on Twitter,
-you're doing the _right thing_. Don't stop. Be mindful.
+doing _work_. When it's hard, when you'd rather do something mindless like
+social media, you're doing the _right thing_. ***Don't stop.*** Be mindful.
 
 ### Bravery
 
-Solving problems that no one has complicated before, or that have stymied the
-most brilliant humans ever to walk this earth is daunting. Who are you, who am
-I, who are we to dare such things? Human kind. The kind that descended the
-trees, harnessed fire, built civilizations in river valleys and put our
+Solving problems that no one has completed before, or that have stymied the
+most brilliant humans ever to walk this earth is daunting. Who are _you_, who am
+_I_, who are _we_ to dare such things?
+
+The human kind.
+
+The kind that descended the trees, harnessed fire, built civilizations in river valleys and put our
 footprint on the Moon. All of these were hard problems that all the geniuses
-and sages before couldn't solve, until someone dared to try. Embrace
+and sages _before_ couldn't solve, until someone dared to try. Embrace
 uncertainty, but also embrace your inner warrior. You are in a battle against
 your own unknowing. You can win.
 
@@ -47,8 +52,8 @@ some reality show that society would be better off without) clawing at your
 attention, realize that they are multi-_billion_ dollar industries that profit
 from keeping your attention like an addict and selling it off by the half-hour.
 
-The only thing keeping you from this fate is your will which they launch
-focused campaigns to weaken, undermine, and sap.
+The only thing keeping you from this fate is ***your will*** &mdash; which they
+launch focused campaigns to weaken..
 
 In general the idea is "don't get up until it's done." Now obviously this can
 be a bad thing, sometimes you need food, sometimes a 10 minute walk will help
@@ -64,10 +69,10 @@ saved.
 
 ## Don't Flail
 
-We spent a whole page covering this before, but it's massively important. Work
-from a problem solving process, and feel free to use the one we've outlined for
-you previously. Whatever you, don't randomly add code, follow the process
-you've set out for yourself.
+Work from a problem solving process. Don't randomly add code and hope that this
+next run will somehow magically get the answer. Make sure that each time you
+run the code that you expect it to output some validation of your direction
+toward the answer or the answer itself.
 
 ## Don't Curate the Internet's Solutions
 
@@ -86,11 +91,11 @@ peers, bosses and collaborators and own up to having misjudged the size of the
 problem.
 
 Sometimes the problem's interconnected to other parts of the system in
-surprising ways. Sometimes they're a hidden snarl of complicated code you
+surprising ways. Sometimes they's a hidden snarl of complicated code you
 didn't expect to find. Perhaps the code depends on mathematics or business
 knowledge you don't have that you need to learn more about.
 
-Whatever the case, sometimes problems are hard and had us fooled. It's far
+Whatever the case, sometimes problems are hard and fool us. It's far
 better to admit this and follow your process than to provide a fix while
 choosing to be blind to complexity. That's how you get garbage solutions that
 ultimately create more problems than progress.
